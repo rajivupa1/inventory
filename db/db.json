@@ -1,0 +1,25 @@
+{
+  "inventory": [
+    {
+      "name": "Book",
+      "desc": "For Reading",
+      "price": "30",
+      "quantity": "5",
+      "id": 1
+    },
+    {
+      "name": "Mango",
+      "desc": "It is a fruit",
+      "price": "50",
+      "quantity": "3",
+      "id": 2
+    },
+    {
+      "name": "Agg",
+      "desc": "For eating",
+      "price": "6",
+      "quantity": "12",
+      "id": 3
+    }
+  ]
+}
